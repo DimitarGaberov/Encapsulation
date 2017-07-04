@@ -1,0 +1,6 @@
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\ClassBox\bin\Debug\ClassBox.exe.config
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\ClassBox\bin\Debug\ClassBox.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\ClassBox\bin\Debug\ClassBox.pdb
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\ClassBox\obj\Debug\ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\ClassBox\obj\Debug\ClassBox.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\ClassBox\obj\Debug\ClassBox.pdb

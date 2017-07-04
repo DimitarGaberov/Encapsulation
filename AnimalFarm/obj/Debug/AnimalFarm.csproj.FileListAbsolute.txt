@@ -1,0 +1,6 @@
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Encapsulation\AnimalFarm\obj\Debug\AnimalFarm.pdb
